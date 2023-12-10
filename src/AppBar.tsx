@@ -1,5 +1,5 @@
 import { AppBar as MuiAppBar, Typography, styled, Box, Button } from '@mui/material'
-import { SafeGetUserInfoResponse, Web3AuthModalPack } from '@safe-global/auth-kit'
+import { Web3AuthModalPack } from '@safe-global/auth-kit'
 import './App.css'
 
 type AppBarProps = {
